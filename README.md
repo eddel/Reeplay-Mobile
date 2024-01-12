@@ -1,2 +1,2 @@
-# Reeplay-Mobile
-Reeplay Video on demand Cross plartfom mobile App , ios/android
+# Reeplay-Mobile-App
+Reeplay Cross plartfom mobile App , ios/android
